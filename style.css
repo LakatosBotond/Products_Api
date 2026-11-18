@@ -1,0 +1,17 @@
+#product-card{
+    background-color:  wheat;
+    border: 1px solid black;
+    width: 50%;
+    height: fit-content;
+    border-radius: 10px;
+    justify-content: center;    
+
+}
+#list{
+    justify-content: center;
+    list-style-type: none;
+}
+#image{
+    width: 80%;
+    border-radius: 10px;
+}
